@@ -1,0 +1,3 @@
+Convert a string into a QR PNG file and returns the path to the PNG file.
+
+See `examples/hello-world.go` for usage example.
